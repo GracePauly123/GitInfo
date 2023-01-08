@@ -1,0 +1,18 @@
+# How Create a new project in vs code and commit t new git repo
+
+## install Git
+
+1.Open vscode
+2.open a folder
+3.Create a index.html file
+4.Click source control
+5. Initialize Repository
+6.Open Github
+7.Create new file, copy URL
+8.Click view , then opwn command palette in vs code
+9.Git: ADD Remote , paste URL , paste repo name
+10.provide message then stage the changes and click commit
+11.Open Git repo and check 
+
+Watch youtube  https://www.youtube.com/watch?v=ZRqsnJU9VyM
+
