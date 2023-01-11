@@ -5,3 +5,4 @@ in the terminal
 git merge master
 git pull origin master --allow-unrelated-histories
 ```
+
