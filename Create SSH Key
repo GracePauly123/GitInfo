@@ -1,0 +1,17 @@
+Open Gitbash
+
+Creat directory mkdir .ssh
+
+cd .ssh
+
+ssh-keygen.exe
+
+PLEASE DONT ENTER PASSWORD
+
+ls--------id_rsa && is_rsa.pub (can see these two file)
+
+cat id_rsa.pub
+
+can see SSH KEY 
+
+"sh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDcabv85asQbqpcc0Qo7KOOK3+FNP8rIvNjgzUe6CKiOJi2q9EnAA6afnAtLHod42mMZP1iYNg2PZ7JmymAl1GN72pUWJdNay7DSu3DaUFQZmQRRWwuaeJbQOs5GqJxupWo6tXBhPr8XpasoxCGDS8N/+9uUWL4ZcE8hHQuHuVRjQKQxyDcG0pJslYhgZktcX9KsniBNzZ2h37ZNoa+2FS5BB2aNQXCzwz9n0X/kBYi1YlBNYI1RGQFdLN7oSIYqwVgEjWuq0mk93ps/IFGu5iNpBC4w3NMDCX92v5HdpRw0rZBQYy/KW944HyB/COMhG7TECqtbsrc862hbaZDDgPT8eATQj5L+N7D8nqlCrnRAaAiEkdqnxZcp/AD8fAYptbrN3CWJ+FUqGCjq4+pAgNrlYzehHKZR9P/q6Zqvfb3B6mtcF6m/Rgu0sBLferjenLq+EPFar/WzP/wtUCM6EmHpk+7Lg+hENayiOVNWOHYLW+mQTaHCWBeE4lUavfhWs0= graci@DESKTOP-H0KMA2L"
