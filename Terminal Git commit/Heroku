@@ -1,0 +1,46 @@
+cd /cd/xampp/htdocs/Course/Prog-1/
+
+git config --global user.name "Grace Pauly"
+git config --global user.email "gracious.pauly@gmail.com"
+git config --global push.default matching
+git config --global alias.co checkout
+git init
+
+git add .     saving everything to this repository
+git commit -am 'initial commit'
+
+cat ~/.ssh/id_rsa.pub
+copy paste into git
+
+
+git remote set-url <stream> https://SHA256:0NKJ3Kpw6du4pBmyE5X948Ut9ANSPFtLO6yARlO/TYo@github.com/GracePauly123/<repo>
+
+
+git remote set-git@github.com:user/repo.git 
+git remote add origin git@github.com:GracePauly123/repo.git
+
+SHA256:0NKJ3Kpw6du4pBmyE5X948Ut9ANSPFtLO6yARlO/TYo
+
+git@DESKTOP-H0KMA2L:GracePauly123/repo.git
+
+https://github.com/GracePauly123/PHPDocs.git (push)
+
+
+ Window + R , typing netplwiz a-qm '
+
+
+
+
+
+Heroku
+
+select php folder
+cmd---- heroku login
+open login
+heroku keys:add
+y
+done
+y
+heroku create
+
+
